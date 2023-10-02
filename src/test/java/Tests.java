@@ -5,8 +5,7 @@ public class Tests {
         System.out.println("added main method");
         System.out.println("aika added method");
         System.out.println("aika added method2");
-
-
+        System.out.println("added adi method");
     }
 
 }
